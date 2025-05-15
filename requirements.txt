@@ -1,0 +1,14 @@
+# Core numerical & plotting
+numpy>=1.23
+matplotlib>=3.6
+
+# Interactive Jupyter backend
+ipympl
+ipython
+
+# Image processing & scientific
+SimpleITK
+pyTEMlib
+scikit-image
+scipy
+scikit-learn
